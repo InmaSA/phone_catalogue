@@ -1,0 +1,15 @@
+.details-header {
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  padding-top: 100px;
+  padding-bottom: 50px;
+}
+
+.details-view img {
+  object-fit: cover;
+  height: 500px;
+}
+
+.detail-info {
+  margin-top: 80px;
+}
