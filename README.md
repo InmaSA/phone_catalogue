@@ -1,1 +1,2 @@
-# phone_catalogue
+para correr la aplicación: 
+~ docker-compose up
